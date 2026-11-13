@@ -32,16 +32,18 @@ Aplikasi Kasir Kantin Kampus merupakan aplikasi sederhana berbasis Java yang dig
 ## Tampilan Aplikasi
 
 ### 1. Tampilan Awal Aplikasi
+<img width="383" height="327" alt="1-Tampilan-Awal-Kasir" src="https://github.com/user-attachments/assets/cd6ee085-c1b9-43c2-9837-75d4ec8cc2d5" />
 
-![Tampilan Awal Kasir](sc/1-Tampilan-Awal-Kasir.png)
 
 ### 2. Pembayaran Berhasil
 
-![Pembayaran Berhasil](sc/2-Pembayaran-Berhasil.png)
+<img width="385" height="328" alt="2-Pembayaran-Berhasil" src="https://github.com/user-attachments/assets/8da7fc12-c521-4e73-981e-9544a72e925d" />
+
 
 ### 3. Pembayaran Kurang
 
-![Pembayaran Kurang](sc/3-Pembayaran-Kurang.png)
+<img width="386" height="329" alt="3-Pembayaran-Kurang" src="https://github.com/user-attachments/assets/294b761f-b6cd-4d88-882a-283a9f6e13b0" />
+
 
 ## Pengujian Aplikasi
 
